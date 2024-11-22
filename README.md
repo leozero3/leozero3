@@ -46,9 +46,9 @@ Sou um desenvolvedor apaixonado por tecnologia e programação há cerca de 4 an
 
 ## 🌐 Contato
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/seu-perfil)
-- 📧 leonardo.gonzalez@email.com
-- 🚀 [Portfólio](https://seu-portfolio.com)
+- 💼 [LinkedIn]([https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/leonardo-gonzalez-159b81299/))
+- 📧real.dev.031@gmail.com
+- 🚀 [Portfólio]([https://seu-portfolio.com](https://github.com/leozero3?tab=repositories))
 
 ---
 
